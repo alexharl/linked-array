@@ -11,9 +11,9 @@ TODO
 Node.JS
 
 ```
-$ npm install js-array-extensions
+$ npm install linked-array
 
-require('js-array-extensions');
+require('linked-array');
 ```
 
 # Support methods
