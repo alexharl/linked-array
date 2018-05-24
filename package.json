@@ -1,0 +1,22 @@
+{
+    "name": "linked-array",
+    "version": "1.0.0",
+    "description": "Javascript extension for Array-type to support storing references of children / parent when using slice or filter.",
+    "main": "./src/linked-array.js",
+    "scripts": {
+      "test": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/alexharl/linked-array.git"
+    },
+    "keywords": ["javascript", "array", "extensions", "linked", "children", "parent"],
+    "author": "Alexander Harl",
+    "license": "GPL",
+    "bugs": {
+      "url": "https://github.com/powerumc/array-extensions/issues"
+    },
+    "_from": "linked-array@",
+    "homepage": "https://github.com/alexharl/linked-array"
+  }
+  
